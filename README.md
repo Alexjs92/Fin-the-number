@@ -1,6 +1,7 @@
-Hi, im Alexjs92 i love the code :)
+This is simple program to interact in the terminal. 
 
-<!---
-Alexjs92/Alexjs92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+INSTRIONS:
+You need have installed vscode and run the script in the terminal.
+
+UPDATE:
+I have a better version of this program check my profile and find (find the number random and)
