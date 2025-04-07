@@ -1,6 +1,6 @@
 This is simple program to interact in the terminal. 
 
-INSTRIONS:
+INSTRUCTIONS:
 You need have installed vscode and run the script in the terminal.
 
 UPDATE:
